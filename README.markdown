@@ -13,7 +13,9 @@ Works with ruby 1.8.7, ree, 1.9, 2.0 (rails 4.0 requires at least ruby 1.9).
 * https://github.com/toy/dump/pull/12
 * https://github.com/toy/dump/pull/13
 
+
     gem 'dump', :github => 'aishek/dump', :branch => 'ignore-indexes-on-restore-and-empty-restores-handle'
+
 
 ## Install
 
